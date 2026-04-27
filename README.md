@@ -4,7 +4,7 @@
 
 A high-converting, production-ready e-commerce website for a premium gaming PC brand.
 
-## Tech Stack
+## Tech main Stack
 
 - **Framework**: React 18 + Vite
 - **Styling**: Tailwind CSS (custom config with brand tokens)
