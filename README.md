@@ -46,7 +46,7 @@ npm run build
 npm run preview
 ```
 
-## Project Structure
+## Project Structures
 
 ```
 src/
